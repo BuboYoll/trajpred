@@ -1,4 +1,24 @@
 2025-02-18 12:44:31,630 - INFO - Logging setup complete at 2025-02-18 12:44:31.629315.
+class ModelConfig:
+    loc_size = 61858
+    tim_size = 168
+    loc_emb_size = 100
+    tim_emb_size = 20
+    hidden_size = 40
+    dropout_p = 0.2
+
+class DataConfig:
+    batch_size = 64
+    top_locs = 20
+    held_out = 0.9
+    min_datapoints = 21
+    traj_len = 21
+    target_len = 1 # also used in the forward method in model
+
+class TrainConfig:
+    lr = 0.001
+    epochs = 20
+    device = 'cuda'
 2025-02-18 12:44:45,237 - INFO - Epoch [1/20] : Batch [1000/7221] || loss: 8.7843 || avg Loss: 8.7843
 2025-02-18 12:44:56,152 - INFO - Epoch [1/20] : Batch [2000/7221] || loss: 7.8698 || avg Loss: 8.3270
 2025-02-18 12:45:07,282 - INFO - Epoch [1/20] : Batch [3000/7221] || loss: 6.5773 || avg Loss: 7.7438

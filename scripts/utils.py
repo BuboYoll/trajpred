@@ -2,6 +2,7 @@ import logging
 import os
 from datetime import datetime
 from pathlib import Path
+from config import DataConfig, ModelConfig, TrainConfig
 
 def train_log():
     parent = Path(__file__).parent
@@ -20,7 +21,9 @@ def train_log():
         filemode='w',
         format='%(asctime)s - %(levelname)s - %(message)s'
     )
-    logging.info(f"Logging setup complete at {tim}.")
+    logging.info(f"DataConfig: batchsize: {DataConfig.batch_size} target_len: {DataConfig.target_len} traj_len: {DataConfig.traj_len}\n "
+                 f"TrainConfig: lr: {TrainConfig.lr}, epochs: {TrainConfig.epochs}\n"
+                 f"ModelConfig: loc_emb: {ModelConfig.loc_emb_size}, tim_emb: {ModelConfig.tim_emb_size}, hidden: {ModelConfig.hidden_size}, dropout: {ModelConfig.dropout_p}")
 
 def valid_log():
     parent = Path(__file__).parent
