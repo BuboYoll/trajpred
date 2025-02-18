@@ -1,7 +1,7 @@
 class ModelConfig:
     loc_size = 61858
     tim_size = 168
-    loc_emb_size = 100
+    loc_emb_size = 200
     tim_emb_size = 20
     hidden_size = 40
     dropout_p = 0.2

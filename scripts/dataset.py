@@ -118,7 +118,7 @@ class CheckinDataset(Dataset):
 
         if len(seq.shape) > 1:
             seq = seq.T
-        shape = seq.shape[:-1] + (seq.shape[-1] - window_size + 1, window_size)
+        shape = seq.shape[:-1] + (seq.shape[-1] - window_size + 1, window_size)  # (N, traj_len)
         strides = seq.strides + (seq.strides[-1],)
 
         if len(seq.shape) > 1:

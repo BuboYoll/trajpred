@@ -25,7 +25,7 @@ def train_log():
                  f"TrainConfig: lr: {TrainConfig.lr}, epochs: {TrainConfig.epochs}\n"
                  f"ModelConfig: loc_emb: {ModelConfig.loc_emb_size}, tim_emb: {ModelConfig.tim_emb_size}, hidden: {ModelConfig.hidden_size}, dropout: {ModelConfig.dropout_p}")
 
-def valid_log():
+def test_log():
     parent = Path(__file__).parent
     log_dir = parent.parent / 'logs'
 
@@ -33,7 +33,7 @@ def valid_log():
     month = tim.month
     day = tim.day
     hour = tim.hour
-    s = f'evaluate_{month}_{day}_{hour}'
+    s = f'test_{month}_{day}_{hour}'
     log_path = os.path.join(log_dir, s)
 
     logging.basicConfig(
