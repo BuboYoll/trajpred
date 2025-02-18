@@ -1,0 +1,202 @@
+2025-02-17 20:25:21,587 - INFO - Logging setup complete at 2025-02-17 20:25:21.586622.
+2025-02-17 20:25:34,651 - INFO - Epoch [1/20] : Batch [1000/7221] || loss: 7.6301 || avg Loss: 7.6301
+2025-02-17 20:25:44,677 - INFO - Epoch [1/20] : Batch [2000/7221] || loss: 6.6307 || avg Loss: 7.1304
+2025-02-17 20:25:54,697 - INFO - Epoch [1/20] : Batch [3000/7221] || loss: 7.1312 || avg Loss: 7.1307
+2025-02-17 20:26:04,713 - INFO - Epoch [1/20] : Batch [4000/7221] || loss: 6.8744 || avg Loss: 7.0666
+2025-02-17 20:26:14,754 - INFO - Epoch [1/20] : Batch [5000/7221] || loss: 5.9906 || avg Loss: 6.8514
+2025-02-17 20:26:24,819 - INFO - Epoch [1/20] : Batch [6000/7221] || loss: 6.5104 || avg Loss: 6.7946
+2025-02-17 20:26:34,925 - INFO - Epoch [1/20] : Batch [7000/7221] || loss: 5.9798 || avg Loss: 6.6782
+2025-02-17 20:26:39,005 - INFO - ====
+2025-02-17 20:26:39,005 - INFO - Validation: Epoch [1/20], Validation Loss: 5.3800, Validation Accuracy: 52.317%
+2025-02-17 20:26:39,005 - INFO - ====
+2025-02-17 20:26:49,500 - INFO - Epoch [2/20] : Batch [1000/7221] || loss: 5.2189 || avg Loss: 6.4958
+2025-02-17 20:26:59,855 - INFO - Epoch [2/20] : Batch [2000/7221] || loss: 5.7616 || avg Loss: 6.4142
+2025-02-17 20:27:10,091 - INFO - Epoch [2/20] : Batch [3000/7221] || loss: 6.1132 || avg Loss: 6.3841
+2025-02-17 20:27:19,993 - INFO - Epoch [2/20] : Batch [4000/7221] || loss: 4.5927 || avg Loss: 6.2212
+2025-02-17 20:27:29,907 - INFO - Epoch [2/20] : Batch [5000/7221] || loss: 4.9898 || avg Loss: 6.1186
+2025-02-17 20:27:39,755 - INFO - Epoch [2/20] : Batch [6000/7221] || loss: 5.0959 || avg Loss: 6.0399
+2025-02-17 20:27:49,773 - INFO - Epoch [2/20] : Batch [7000/7221] || loss: 4.6101 || avg Loss: 5.9378
+2025-02-17 20:27:53,982 - INFO - ====
+2025-02-17 20:27:53,982 - INFO - Validation: Epoch [2/20], Validation Loss: 4.4759, Validation Accuracy: 59.445%
+2025-02-17 20:27:53,982 - INFO - ====
+2025-02-17 20:28:04,196 - INFO - Epoch [3/20] : Batch [1000/7221] || loss: 4.4332 || avg Loss: 5.8375
+2025-02-17 20:28:14,314 - INFO - Epoch [3/20] : Batch [2000/7221] || loss: 4.4774 || avg Loss: 5.7525
+2025-02-17 20:28:24,418 - INFO - Epoch [3/20] : Batch [3000/7221] || loss: 3.6304 || avg Loss: 5.6277
+2025-02-17 20:28:34,519 - INFO - Epoch [3/20] : Batch [4000/7221] || loss: 4.7530 || avg Loss: 5.5791
+2025-02-17 20:28:44,735 - INFO - Epoch [3/20] : Batch [5000/7221] || loss: 4.4601 || avg Loss: 5.5202
+2025-02-17 20:28:54,806 - INFO - Epoch [3/20] : Batch [6000/7221] || loss: 4.6912 || avg Loss: 5.4787
+2025-02-17 20:29:04,910 - INFO - Epoch [3/20] : Batch [7000/7221] || loss: 3.8810 || avg Loss: 5.4027
+2025-02-17 20:29:08,858 - INFO - ====
+2025-02-17 20:29:08,858 - INFO - Validation: Epoch [3/20], Validation Loss: 4.0354, Validation Accuracy: 62.140%
+2025-02-17 20:29:08,858 - INFO - ====
+2025-02-17 20:29:19,031 - INFO - Epoch [4/20] : Batch [1000/7221] || loss: 4.3885 || avg Loss: 5.3566
+2025-02-17 20:29:29,122 - INFO - Epoch [4/20] : Batch [2000/7221] || loss: 4.3376 || avg Loss: 5.3123
+2025-02-17 20:29:39,165 - INFO - Epoch [4/20] : Batch [3000/7221] || loss: 3.9731 || avg Loss: 5.2565
+2025-02-17 20:29:49,221 - INFO - Epoch [4/20] : Batch [4000/7221] || loss: 3.9651 || avg Loss: 5.2048
+2025-02-17 20:29:59,272 - INFO - Epoch [4/20] : Batch [5000/7221] || loss: 3.8168 || avg Loss: 5.1514
+2025-02-17 20:30:09,311 - INFO - Epoch [4/20] : Batch [6000/7221] || loss: 3.4621 || avg Loss: 5.0889
+2025-02-17 20:30:19,363 - INFO - Epoch [4/20] : Batch [7000/7221] || loss: 3.4716 || avg Loss: 5.0311
+2025-02-17 20:30:23,366 - INFO - ====
+2025-02-17 20:30:23,366 - INFO - Validation: Epoch [4/20], Validation Loss: 3.8281, Validation Accuracy: 64.033%
+2025-02-17 20:30:23,366 - INFO - ====
+2025-02-17 20:30:33,501 - INFO - Epoch [5/20] : Batch [1000/7221] || loss: 3.3768 || avg Loss: 4.9740
+2025-02-17 20:30:43,531 - INFO - Epoch [5/20] : Batch [2000/7221] || loss: 4.2439 || avg Loss: 4.9497
+2025-02-17 20:30:53,580 - INFO - Epoch [5/20] : Batch [3000/7221] || loss: 3.7616 || avg Loss: 4.9114
+2025-02-17 20:31:03,643 - INFO - Epoch [5/20] : Batch [4000/7221] || loss: 4.4756 || avg Loss: 4.8978
+2025-02-17 20:31:13,730 - INFO - Epoch [5/20] : Batch [5000/7221] || loss: 2.5333 || avg Loss: 4.8261
+2025-02-17 20:31:23,817 - INFO - Epoch [5/20] : Batch [6000/7221] || loss: 3.2295 || avg Loss: 4.7792
+2025-02-17 20:31:33,871 - INFO - Epoch [5/20] : Batch [7000/7221] || loss: 3.6694 || avg Loss: 4.7475
+2025-02-17 20:31:37,865 - INFO - ====
+2025-02-17 20:31:37,865 - INFO - Validation: Epoch [5/20], Validation Loss: 3.6910, Validation Accuracy: 65.630%
+2025-02-17 20:31:37,865 - INFO - ====
+2025-02-17 20:31:48,044 - INFO - Epoch [6/20] : Batch [1000/7221] || loss: 2.3858 || avg Loss: 4.6819
+2025-02-17 20:31:58,120 - INFO - Epoch [6/20] : Batch [2000/7221] || loss: 3.2671 || avg Loss: 4.6436
+2025-02-17 20:32:08,193 - INFO - Epoch [6/20] : Batch [3000/7221] || loss: 3.3005 || avg Loss: 4.6083
+2025-02-17 20:32:18,287 - INFO - Epoch [6/20] : Batch [4000/7221] || loss: 3.4770 || avg Loss: 4.5793
+2025-02-17 20:32:28,351 - INFO - Epoch [6/20] : Batch [5000/7221] || loss: 3.2019 || avg Loss: 4.5448
+2025-02-17 20:32:38,413 - INFO - Epoch [6/20] : Batch [6000/7221] || loss: 2.9650 || avg Loss: 4.5063
+2025-02-17 20:32:48,549 - INFO - Epoch [6/20] : Batch [7000/7221] || loss: 2.4552 || avg Loss: 4.4575
+2025-02-17 20:32:52,596 - INFO - ====
+2025-02-17 20:32:52,596 - INFO - Validation: Epoch [6/20], Validation Loss: 3.5875, Validation Accuracy: 66.512%
+2025-02-17 20:32:52,596 - INFO - ====
+2025-02-17 20:33:02,772 - INFO - Epoch [7/20] : Batch [1000/7221] || loss: 3.3060 || avg Loss: 4.4307
+2025-02-17 20:33:12,835 - INFO - Epoch [7/20] : Batch [2000/7221] || loss: 3.0464 || avg Loss: 4.3992
+2025-02-17 20:33:22,928 - INFO - Epoch [7/20] : Batch [3000/7221] || loss: 2.3888 || avg Loss: 4.3545
+2025-02-17 20:33:33,084 - INFO - Epoch [7/20] : Batch [4000/7221] || loss: 3.1329 || avg Loss: 4.3280
+2025-02-17 20:33:43,156 - INFO - Epoch [7/20] : Batch [5000/7221] || loss: 2.6632 || avg Loss: 4.2926
+2025-02-17 20:33:53,215 - INFO - Epoch [7/20] : Batch [6000/7221] || loss: 4.1970 || avg Loss: 4.2906
+2025-02-17 20:34:03,281 - INFO - Epoch [7/20] : Batch [7000/7221] || loss: 3.6493 || avg Loss: 4.2775
+2025-02-17 20:34:07,278 - INFO - ====
+2025-02-17 20:34:07,278 - INFO - Validation: Epoch [7/20], Validation Loss: 3.5142, Validation Accuracy: 67.377%
+2025-02-17 20:34:07,278 - INFO - ====
+2025-02-17 20:34:17,432 - INFO - Epoch [8/20] : Batch [1000/7221] || loss: 3.0605 || avg Loss: 4.2531
+2025-02-17 20:34:27,521 - INFO - Epoch [8/20] : Batch [2000/7221] || loss: 2.3842 || avg Loss: 4.2165
+2025-02-17 20:34:37,614 - INFO - Epoch [8/20] : Batch [3000/7221] || loss: 3.1913 || avg Loss: 4.1968
+2025-02-17 20:34:47,689 - INFO - Epoch [8/20] : Batch [4000/7221] || loss: 3.1678 || avg Loss: 4.1774
+2025-02-17 20:34:57,763 - INFO - Epoch [8/20] : Batch [5000/7221] || loss: 3.0504 || avg Loss: 4.1565
+2025-02-17 20:35:07,847 - INFO - Epoch [8/20] : Batch [6000/7221] || loss: 3.0867 || avg Loss: 4.1370
+2025-02-17 20:35:17,940 - INFO - Epoch [8/20] : Batch [7000/7221] || loss: 2.5615 || avg Loss: 4.1089
+2025-02-17 20:35:21,955 - INFO - ====
+2025-02-17 20:35:21,955 - INFO - Validation: Epoch [8/20], Validation Loss: 3.4494, Validation Accuracy: 68.153%
+2025-02-17 20:35:21,955 - INFO - ====
+2025-02-17 20:35:32,103 - INFO - Epoch [9/20] : Batch [1000/7221] || loss: 3.0564 || avg Loss: 4.0904
+2025-02-17 20:35:42,157 - INFO - Epoch [9/20] : Batch [2000/7221] || loss: 2.3438 || avg Loss: 4.0603
+2025-02-17 20:35:52,252 - INFO - Epoch [9/20] : Batch [3000/7221] || loss: 3.3942 || avg Loss: 4.0490
+2025-02-17 20:36:02,332 - INFO - Epoch [9/20] : Batch [4000/7221] || loss: 2.4114 || avg Loss: 4.0218
+2025-02-17 20:36:12,394 - INFO - Epoch [9/20] : Batch [5000/7221] || loss: 1.8565 || avg Loss: 3.9863
+2025-02-17 20:36:22,495 - INFO - Epoch [9/20] : Batch [6000/7221] || loss: 2.8861 || avg Loss: 3.9685
+2025-02-17 20:36:32,581 - INFO - Epoch [9/20] : Batch [7000/7221] || loss: 2.8136 || avg Loss: 3.9502
+2025-02-17 20:36:36,581 - INFO - ====
+2025-02-17 20:36:36,581 - INFO - Validation: Epoch [9/20], Validation Loss: 3.4087, Validation Accuracy: 68.412%
+2025-02-17 20:36:36,581 - INFO - ====
+2025-02-17 20:36:46,741 - INFO - Epoch [10/20] : Batch [1000/7221] || loss: 2.7343 || avg Loss: 3.9312
+2025-02-17 20:36:56,822 - INFO - Epoch [10/20] : Batch [2000/7221] || loss: 2.7842 || avg Loss: 3.9135
+2025-02-17 20:37:06,910 - INFO - Epoch [10/20] : Batch [3000/7221] || loss: 3.3365 || avg Loss: 3.9048
+2025-02-17 20:37:17,048 - INFO - Epoch [10/20] : Batch [4000/7221] || loss: 2.8759 || avg Loss: 3.8894
+2025-02-17 20:37:27,152 - INFO - Epoch [10/20] : Batch [5000/7221] || loss: 3.1803 || avg Loss: 3.8790
+2025-02-17 20:37:37,202 - INFO - Epoch [10/20] : Batch [6000/7221] || loss: 2.9943 || avg Loss: 3.8662
+2025-02-17 20:37:47,269 - INFO - Epoch [10/20] : Batch [7000/7221] || loss: 3.4767 || avg Loss: 3.8606
+2025-02-17 20:37:51,604 - INFO - ====
+2025-02-17 20:37:51,604 - INFO - Validation: Epoch [10/20], Validation Loss: 3.3700, Validation Accuracy: 68.839%
+2025-02-17 20:37:51,604 - INFO - ====
+2025-02-17 20:38:02,061 - INFO - Epoch [11/20] : Batch [1000/7221] || loss: 2.7764 || avg Loss: 3.8453
+2025-02-17 20:38:12,253 - INFO - Epoch [11/20] : Batch [2000/7221] || loss: 3.8003 || avg Loss: 3.8447
+2025-02-17 20:38:22,604 - INFO - Epoch [11/20] : Batch [3000/7221] || loss: 2.7844 || avg Loss: 3.8302
+2025-02-17 20:38:33,337 - INFO - Epoch [11/20] : Batch [4000/7221] || loss: 3.0868 || avg Loss: 3.8202
+2025-02-17 20:38:44,396 - INFO - Epoch [11/20] : Batch [5000/7221] || loss: 2.3656 || avg Loss: 3.8008
+2025-02-17 20:38:55,045 - INFO - Epoch [11/20] : Batch [6000/7221] || loss: 3.0208 || avg Loss: 3.7905
+2025-02-17 20:39:05,809 - INFO - Epoch [11/20] : Batch [7000/7221] || loss: 3.1855 || avg Loss: 3.7826
+2025-02-17 20:39:10,058 - INFO - ====
+2025-02-17 20:39:10,058 - INFO - Validation: Epoch [11/20], Validation Loss: 3.3391, Validation Accuracy: 69.045%
+2025-02-17 20:39:10,058 - INFO - ====
+2025-02-17 20:39:20,418 - INFO - Epoch [12/20] : Batch [1000/7221] || loss: 3.2253 || avg Loss: 3.7755
+2025-02-17 20:39:30,608 - INFO - Epoch [12/20] : Batch [2000/7221] || loss: 3.0886 || avg Loss: 3.7668
+2025-02-17 20:39:40,670 - INFO - Epoch [12/20] : Batch [3000/7221] || loss: 2.3150 || avg Loss: 3.7486
+2025-02-17 20:39:50,712 - INFO - Epoch [12/20] : Batch [4000/7221] || loss: 2.9433 || avg Loss: 3.7387
+2025-02-17 20:40:00,767 - INFO - Epoch [12/20] : Batch [5000/7221] || loss: 2.8920 || avg Loss: 3.7284
+2025-02-17 20:40:10,830 - INFO - Epoch [12/20] : Batch [6000/7221] || loss: 2.3409 || avg Loss: 3.7117
+2025-02-17 20:40:20,894 - INFO - Epoch [12/20] : Batch [7000/7221] || loss: 2.4650 || avg Loss: 3.6968
+2025-02-17 20:40:24,919 - INFO - ====
+2025-02-17 20:40:24,919 - INFO - Validation: Epoch [12/20], Validation Loss: 3.3200, Validation Accuracy: 69.069%
+2025-02-17 20:40:24,919 - INFO - ====
+2025-02-17 20:40:35,039 - INFO - Epoch [13/20] : Batch [1000/7221] || loss: 3.5446 || avg Loss: 3.6950
+2025-02-17 20:40:45,108 - INFO - Epoch [13/20] : Batch [2000/7221] || loss: 2.3225 || avg Loss: 3.6791
+2025-02-17 20:40:55,144 - INFO - Epoch [13/20] : Batch [3000/7221] || loss: 2.0496 || avg Loss: 3.6603
+2025-02-17 20:41:05,205 - INFO - Epoch [13/20] : Batch [4000/7221] || loss: 1.7233 || avg Loss: 3.6383
+2025-02-17 20:41:15,240 - INFO - Epoch [13/20] : Batch [5000/7221] || loss: 2.5485 || avg Loss: 3.6261
+2025-02-17 20:41:25,322 - INFO - Epoch [13/20] : Batch [6000/7221] || loss: 2.6906 || avg Loss: 3.6157
+2025-02-17 20:41:35,367 - INFO - Epoch [13/20] : Batch [7000/7221] || loss: 2.8475 || avg Loss: 3.6073
+2025-02-17 20:41:39,372 - INFO - ====
+2025-02-17 20:41:39,372 - INFO - Validation: Epoch [13/20], Validation Loss: 3.3016, Validation Accuracy: 69.312%
+2025-02-17 20:41:39,372 - INFO - ====
+2025-02-17 20:41:49,513 - INFO - Epoch [14/20] : Batch [1000/7221] || loss: 2.8284 || avg Loss: 3.5988
+2025-02-17 20:41:59,558 - INFO - Epoch [14/20] : Batch [2000/7221] || loss: 3.8233 || avg Loss: 3.6012
+2025-02-17 20:42:09,588 - INFO - Epoch [14/20] : Batch [3000/7221] || loss: 3.0313 || avg Loss: 3.5951
+2025-02-17 20:42:19,667 - INFO - Epoch [14/20] : Batch [4000/7221] || loss: 2.0972 || avg Loss: 3.5794
+2025-02-17 20:42:29,712 - INFO - Epoch [14/20] : Batch [5000/7221] || loss: 2.2048 || avg Loss: 3.5651
+2025-02-17 20:42:39,755 - INFO - Epoch [14/20] : Batch [6000/7221] || loss: 2.6064 || avg Loss: 3.5552
+2025-02-17 20:42:49,836 - INFO - Epoch [14/20] : Batch [7000/7221] || loss: 2.2435 || avg Loss: 3.5418
+2025-02-17 20:42:53,821 - INFO - ====
+2025-02-17 20:42:53,821 - INFO - Validation: Epoch [14/20], Validation Loss: 3.2841, Validation Accuracy: 69.493%
+2025-02-17 20:42:53,821 - INFO - ====
+2025-02-17 20:43:03,960 - INFO - Epoch [15/20] : Batch [1000/7221] || loss: 1.9135 || avg Loss: 3.5253
+2025-02-17 20:43:14,017 - INFO - Epoch [15/20] : Batch [2000/7221] || loss: 2.8803 || avg Loss: 3.5189
+2025-02-17 20:43:24,087 - INFO - Epoch [15/20] : Batch [3000/7221] || loss: 2.7321 || avg Loss: 3.5111
+2025-02-17 20:43:34,295 - INFO - Epoch [15/20] : Batch [4000/7221] || loss: 1.6808 || avg Loss: 3.4932
+2025-02-17 20:43:44,356 - INFO - Epoch [15/20] : Batch [5000/7221] || loss: 2.4669 || avg Loss: 3.4832
+2025-02-17 20:43:54,437 - INFO - Epoch [15/20] : Batch [6000/7221] || loss: 2.0843 || avg Loss: 3.4697
+2025-02-17 20:44:04,507 - INFO - Epoch [15/20] : Batch [7000/7221] || loss: 1.9796 || avg Loss: 3.4555
+2025-02-17 20:44:08,527 - INFO - ====
+2025-02-17 20:44:08,528 - INFO - Validation: Epoch [15/20], Validation Loss: 3.2701, Validation Accuracy: 69.631%
+2025-02-17 20:44:08,528 - INFO - ====
+2025-02-17 20:44:18,665 - INFO - Epoch [16/20] : Batch [1000/7221] || loss: 2.1083 || avg Loss: 3.4428
+2025-02-17 20:44:28,714 - INFO - Epoch [16/20] : Batch [2000/7221] || loss: 2.6834 || avg Loss: 3.4357
+2025-02-17 20:44:38,755 - INFO - Epoch [16/20] : Batch [3000/7221] || loss: 1.8211 || avg Loss: 3.4208
+2025-02-17 20:44:48,791 - INFO - Epoch [16/20] : Batch [4000/7221] || loss: 2.4731 || avg Loss: 3.4121
+2025-02-17 20:44:58,825 - INFO - Epoch [16/20] : Batch [5000/7221] || loss: 3.1447 || avg Loss: 3.4097
+2025-02-17 20:45:08,870 - INFO - Epoch [16/20] : Batch [6000/7221] || loss: 2.3876 || avg Loss: 3.4005
+2025-02-17 20:45:18,934 - INFO - Epoch [16/20] : Batch [7000/7221] || loss: 1.9550 || avg Loss: 3.3875
+2025-02-17 20:45:23,198 - INFO - ====
+2025-02-17 20:45:23,198 - INFO - Validation: Epoch [16/20], Validation Loss: 3.2637, Validation Accuracy: 69.696%
+2025-02-17 20:45:23,198 - INFO - ====
+2025-02-17 20:45:33,453 - INFO - Epoch [17/20] : Batch [1000/7221] || loss: 1.9667 || avg Loss: 3.3750
+2025-02-17 20:45:43,483 - INFO - Epoch [17/20] : Batch [2000/7221] || loss: 2.0522 || avg Loss: 3.3634
+2025-02-17 20:45:53,496 - INFO - Epoch [17/20] : Batch [3000/7221] || loss: 2.3281 || avg Loss: 3.3544
+2025-02-17 20:46:03,510 - INFO - Epoch [17/20] : Batch [4000/7221] || loss: 3.1479 || avg Loss: 3.3526
+2025-02-17 20:46:13,505 - INFO - Epoch [17/20] : Batch [5000/7221] || loss: 1.8710 || avg Loss: 3.3399
+2025-02-17 20:46:23,539 - INFO - Epoch [17/20] : Batch [6000/7221] || loss: 2.5044 || avg Loss: 3.3328
+2025-02-17 20:46:33,568 - INFO - Epoch [17/20] : Batch [7000/7221] || loss: 3.1901 || avg Loss: 3.3316
+2025-02-17 20:46:37,583 - INFO - ====
+2025-02-17 20:46:37,583 - INFO - Validation: Epoch [17/20], Validation Loss: 3.2519, Validation Accuracy: 69.577%
+2025-02-17 20:46:37,583 - INFO - ====
+2025-02-17 20:46:47,655 - INFO - Epoch [18/20] : Batch [1000/7221] || loss: 3.2377 || avg Loss: 3.3309
+2025-02-17 20:46:57,648 - INFO - Epoch [18/20] : Batch [2000/7221] || loss: 2.2997 || avg Loss: 3.3223
+2025-02-17 20:47:07,682 - INFO - Epoch [18/20] : Batch [3000/7221] || loss: 2.7998 || avg Loss: 3.3181
+2025-02-17 20:47:17,752 - INFO - Epoch [18/20] : Batch [4000/7221] || loss: 1.5915 || avg Loss: 3.3040
+2025-02-17 20:47:27,759 - INFO - Epoch [18/20] : Batch [5000/7221] || loss: 2.2660 || avg Loss: 3.2957
+2025-02-17 20:47:37,778 - INFO - Epoch [18/20] : Batch [6000/7221] || loss: 2.8983 || avg Loss: 3.2925
+2025-02-17 20:47:47,806 - INFO - Epoch [18/20] : Batch [7000/7221] || loss: 2.7134 || avg Loss: 3.2879
+2025-02-17 20:47:51,803 - INFO - ====
+2025-02-17 20:47:51,803 - INFO - Validation: Epoch [18/20], Validation Loss: 3.2460, Validation Accuracy: 69.766%
+2025-02-17 20:47:51,803 - INFO - ====
+2025-02-17 20:48:01,962 - INFO - Epoch [19/20] : Batch [1000/7221] || loss: 2.5620 || avg Loss: 3.2822
+2025-02-17 20:48:11,984 - INFO - Epoch [19/20] : Batch [2000/7221] || loss: 2.6139 || avg Loss: 3.2769
+2025-02-17 20:48:22,010 - INFO - Epoch [19/20] : Batch [3000/7221] || loss: 2.4587 || avg Loss: 3.2706
+2025-02-17 20:48:32,029 - INFO - Epoch [19/20] : Batch [4000/7221] || loss: 3.2650 || avg Loss: 3.2706
+2025-02-17 20:48:42,053 - INFO - Epoch [19/20] : Batch [5000/7221] || loss: 2.0754 || avg Loss: 3.2614
+2025-02-17 20:48:52,088 - INFO - Epoch [19/20] : Batch [6000/7221] || loss: 2.8096 || avg Loss: 3.2580
+2025-02-17 20:49:02,153 - INFO - Epoch [19/20] : Batch [7000/7221] || loss: 2.8495 || avg Loss: 3.2549
+2025-02-17 20:49:06,265 - INFO - ====
+2025-02-17 20:49:06,265 - INFO - Validation: Epoch [19/20], Validation Loss: 3.2368, Validation Accuracy: 69.856%
+2025-02-17 20:49:06,265 - INFO - ====
+2025-02-17 20:49:16,345 - INFO - Epoch [20/20] : Batch [1000/7221] || loss: 2.5250 || avg Loss: 3.2495
+2025-02-17 20:49:26,390 - INFO - Epoch [20/20] : Batch [2000/7221] || loss: 2.4826 || avg Loss: 3.2438
+2025-02-17 20:49:36,521 - INFO - Epoch [20/20] : Batch [3000/7221] || loss: 3.0142 || avg Loss: 3.2421
+2025-02-17 20:49:46,539 - INFO - Epoch [20/20] : Batch [4000/7221] || loss: 2.7487 || avg Loss: 3.2385
+2025-02-17 20:49:56,538 - INFO - Epoch [20/20] : Batch [5000/7221] || loss: 3.0173 || avg Loss: 3.2369
+2025-02-17 20:50:06,548 - INFO - Epoch [20/20] : Batch [6000/7221] || loss: 1.5181 || avg Loss: 3.2246
+2025-02-17 20:50:16,572 - INFO - Epoch [20/20] : Batch [7000/7221] || loss: 2.4137 || avg Loss: 3.2188
+2025-02-17 20:50:20,609 - INFO - ====
+2025-02-17 20:50:20,609 - INFO - Validation: Epoch [20/20], Validation Loss: 3.2397, Validation Accuracy: 69.683%
+2025-02-17 20:50:20,610 - INFO - ====
+2025-02-17 20:50:20,667 - INFO - Training finished.
